@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](portfolio)
 
-- 📝 I regularly write articles on Medium(https://medium.com/@binarawijewickrama)
+- 📝 I regularly write articles on [Medium](https://medium.com/@binarawijewickrama)
 
 - 💬 Ask me about **Python,C,and Bootstrap 5**
 
@@ -36,14 +36,17 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" />
     </a>
+
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
             alt="csharp" width="40" height="40" />
     </a>
+
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="40" height="40" />
     </a>
+
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" />
@@ -84,7 +87,7 @@
             alt="oracle" width="40" height="40" /> </a>
 </p>
 
-<h3 align="left">Softwares & IDEs</h3>
+<h3 align="left">Softwares</h3>
 <p align="left">
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
         <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="40" height="40" />
@@ -121,3 +124,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
             alt="@binarawijewickrama" height="30" width="40" /></a>
 </p>
+
+<p><img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mrcookee&show_icons=true&locale=en&layout=compact"
+        alt="mrcookee" /></p>
