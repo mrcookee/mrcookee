@@ -27,9 +27,7 @@
     <table align="left">
         <!-- Programming Languages Section -->
         <tr>
-            <th colspan="5">
-                <h3 align="left">Programming Languages</h3>
-            </th>
+            <th colspan="5">Programming Languages</th>
         </tr>
         <tr>
             <td><a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -53,9 +51,7 @@
         </tr>
         <!-- Frontend Technologies Section -->
         <tr>
-            <th colspan="3">
-                <h3 align="left">Frontend Technologies</h3>
-            </th>
+            <th colspan="3">Frontend Technologies</th>
         </tr>
         <tr>
             <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -73,9 +69,7 @@
         </tr>
         <!-- Backend & Backend as a Service (Baas) Section -->
         <tr>
-            <th colspan="4">
-                <h3 align="left">Backend & Backend as a Service (Baas)</h3>
-            </th>
+            <th colspan="4">Backend & Backend as a Service (Baas)</th>
         </tr>
         <tr>
             <td><a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -96,9 +90,7 @@
         </tr>
         <!-- Softwares Section -->
         <tr>
-            <th colspan="5">
-                <h3 align="left">Softwares</h3>
-            </th>
+            <th colspan="5">Softwares</th>
         </tr>
         <tr>
             <td><a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
