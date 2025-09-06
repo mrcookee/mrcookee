@@ -118,6 +118,6 @@
             src="assets/linkdin.png"
             alt="binara-wijewickrama" height="40" width="40" /></a>
     <a href="https://medium.com/@binarawijewickrama" target="blank"><img align="center"
-            src="assets/Medium.png"
+            src="assets/Mediumlogo.png"
             alt="@binarawijewickrama" height="40" width="40" /></a>
 </p>
