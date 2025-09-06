@@ -22,10 +22,6 @@
 
 - ⚡ Fun fact **The code compiles without errors 😂**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Programming Languages</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
