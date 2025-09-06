@@ -25,8 +25,7 @@
 - ⚡ Fun fact **The code compiles without errors 😂**
 
 <h3 align="left">Latest Articales</h3>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7342491118531465217?collapsed=1" height="670" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
