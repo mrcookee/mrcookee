@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](portfolio)
 
-- 📝 I regularly write articles on [https://medium.com/@binarawijewickrama](https://medium.com/@binarawijewickrama)
+- 📝 I regularly write articles on Medium(https://medium.com/@binarawijewickrama)
 
 - 💬 Ask me about **Python,C,and Bootstrap 5**
 
