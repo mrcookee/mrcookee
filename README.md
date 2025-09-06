@@ -25,7 +25,7 @@
 - ⚡ Fun fact **The code compiles without errors 😂**
 
 <h3 align="left">Latest Articales</h3>
-# Blog posts
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
