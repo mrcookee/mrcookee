@@ -25,8 +25,9 @@
 - ⚡ Fun fact **The code compiles without errors 😂**
 
 <h3 align="left">Latest Articales</h3>
-<img src="assets/Mediumlazy3Post.png" height="670" width="504" frameborder="0" allowfullscreen="" title="Embedded post">
-
+<a href="https://medium.com/@binarawijewickrama/mastering-lazys3-the-complete-guide-for-effortless-s3-management-36280c904704" target="_blank" rel="noreferrer">
+        <img src="assets/Mediumlazy3Post.png" height="320" width="320" frameborder="0" allowfullscreen="" title="Embedded post">
+    </a>
 <h3 align="left">Programming Languages</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
