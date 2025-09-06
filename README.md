@@ -23,99 +23,14 @@
 <a href="https://medium.com/@binarawijewickrama/mastering-lazys3-the-complete-guide-for-effortless-s3-management-36280c904704" target="_blank" rel="noreferrer">
         <img src="assets/Mediumlazy3Post.png" height="320" width="320" frameborder="0" allowfullscreen="" title="Embedded post">
     </a>
-<div align="center">
-    <table align="left">
-        <!-- Programming Languages Section -->
-        <tr>
-            <th colspan="5">Programming Languages</th>
-        </tr>
-        <tr>
-            <td><a href="https://www.python.org" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                        alt="python" width="40" height="40" />
-                </a></td>
-            <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-                    <img src="assets/c.png" alt="c" width="40" height="40" />
-                </a></td>
-            <td><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-                        alt="csharp" width="40" height="40" />
-                </a></td>
-            <td><a href="https://www.java.com" target="_blank" rel="noreferrer">
-                    <img src="assets/java.gif" alt="java" width="40" height="40" />
-                </a></td>
-            <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                        alt="javascript" width="40" height="40" />
-                </a></td>
-        </tr>
-        <!-- Frontend Technologies Section -->
-        <tr>
-            <th colspan="3">Frontend Technologies</th>
-        </tr>
-        <tr>
-            <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-                    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap"
-                        width="40" height="40" />
-                </a></td>
-            <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                        alt="css3" width="40" height="40" />
-                </a></td>
-            <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                        alt="html5" width="40" height="40" />
-                </a></td>
-        </tr>
-        <!-- Backend & Backend as a Service (Baas) Section -->
-        <tr>
-            <th colspan="4">Backend & Backend as a Service (Baas)</th>
-        </tr>
-        <tr>
-            <td><a href="https://nodejs.org" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                        alt="nodejs" width="40" height="40" />
-                </a></td>
-            <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
-                        height="40" />
-                </a></td>
-            <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                        alt="mongodb" width="40" height="40" style="filter: invert(1) brightness(100%);" />
-                </a></td>
-            <td><a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-                    <img src="assets/oracle.png" alt="oracle" width="40" height="40" />
-                </a></td>
-        </tr>
-        <!-- Softwares Section -->
-        <tr>
-            <th colspan="5">Softwares</th>
-        </tr>
-        <tr>
-            <td><a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-                    <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="40"
-                        height="40" />
-                </a></td>
-            <td><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-                    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"
-                        style="filter: invert(1) brightness(100%);" />
-                </a></td>
-            <td><a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-                    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
-                        alt="blender" width="40" height="40" style="filter: invert(1) brightness(100%);" />
-                </a></td>
-            <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"
-                        style="filter: invert(1) brightness(100%);" />
-                </a></td>
-            <td><a href="https://postman.com" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-                        height="40" style="filter: invert(1) brightness(100%);" />
-                </a></td>
-        </tr>
-    </table>
-</div><br>
+| Programming Languages                    | Frontend Technologies             | Backend & Backend as a Service (Baas)       | Softwares                       |
+| ---------------------------------------- | ---------------------------------- | ------------------------------------------ | ------------------------------- |
+| ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) [Python](https://www.python.org) | ![Bootstrap](https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png) [Bootstrap](https://getbootstrap.com) | ![NodeJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) [NodeJS](https://nodejs.org) | ![VS Code](https://code.visualstudio.com/assets/images/code-stable.png) [VS Code](https://code.visualstudio.com) |
+| ![C](assets/c.png) [C](https://www.cprogramming.com/) | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) [CSS3](https://www.w3schools.com/css/) | ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) [Firebase](https://firebase.google.com/) | ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg) [Arduino](https://www.arduino.cc/) |
+| ![CSharp](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) [CSharp](https://www.w3schools.com/cs/) | ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) [HTML5](https://www.w3.org/html/) | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) [MongoDB](https://www.mongodb.com/) | ![Blender](https://download.blender.org/branding/community/blender_community_badge_white.svg) [Blender](https://www.blender.org/) |
+| ![Java](assets/java.gif) [Java](https://www.java.com) |                                      | ![Oracle](assets/oracle.png) [Oracle](https://www.oracle.com/) | ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) [Figma](https://www.figma.com/) |
+| ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |                                      |                                            | ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) [Postman](https://postman.com) |
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
