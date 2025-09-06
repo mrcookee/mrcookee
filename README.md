@@ -122,7 +122,7 @@
                 </a></td>
         </tr>
     </table>
-</div>
+</div><br>
 
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mrcookee&show_icons=true&locale=en&layout=compact"
