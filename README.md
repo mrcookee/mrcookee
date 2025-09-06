@@ -101,7 +101,7 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"
             style="filter: invert(1) brightness(100%);" />
     </a>
-</p>
+</p>https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium
 
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mrcookee&show_icons=true&locale=en&layout=compact"
@@ -110,10 +110,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/binara-wijewickrama" target="blank"><img align="center"
-            src="assets/linkdin.png"
-            alt="binara-wijewickrama" height="40" width="40" /></a>
-    <a href="https://medium.com/@binarawijewickrama" target="blank"><img align="center"
-            src="assets/Mediumlogo.png"
-            alt="@binarawijewickrama" height="40" width="40" /></a>
+    <a href="https://linkedin.com/in/binara-wijewickrama" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+    <a href="https://medium.com/@binarawijewickrama" target="blank"><img src="https://img.shields.io/static/v1?message=Medium&logo=Medium&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </p>
