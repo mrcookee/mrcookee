@@ -84,7 +84,7 @@
             alt="oracle" width="40" height="40" /> </a>
 </p>
 
-<h3 align="left">Softwares</h3>
+<h3 align="left">Softwares & IDEs</h3>
 <p align="left">
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
         <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="40" height="40" />
@@ -121,7 +121,3 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
             alt="@binarawijewickrama" height="30" width="40" /></a>
 </p>
-
-<p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mrcookee&show_icons=true&locale=en&layout=compact"
-        alt="mrcookee" /></p>
