@@ -80,8 +80,8 @@
             alt="mongodb" width="40" height="40" style="filter: invert(1) brightness(100%);" />
     </a>
     </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" /> </a>
+            src="assets/oracle.png"
+            alt="oracle" width="40" height="6" /> </a>
 </p>
 
 <h3 align="left">Softwares</h3>
