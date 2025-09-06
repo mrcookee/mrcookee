@@ -24,6 +24,11 @@
 
 - ⚡ Fun fact **The code compiles without errors 😂**
 
+<h3 align="left">Latest Articales</h3>
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Programming Languages</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
