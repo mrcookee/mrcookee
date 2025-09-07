@@ -78,6 +78,10 @@
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
                         alt="html5" width="40" height="40" />
                 </a></td>
+            <td><a href="#" target="_blank" rel="noreferrer">
+                    <img src="assets/gift.gif"
+                        alt="python" width="40" height="40" />
+                </a></td>
         </tr>
         <!-- Backend & Backend as a Service (Baas) Section -->
         <tr>
@@ -98,6 +102,10 @@
                 </a></td>
             <td><a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
                     <img src="assets/oracle.png" alt="oracle" width="40" height="40" />
+                </a></td>
+            <td><a href="#" target="_blank" rel="noreferrer">
+                    <img src="assets/gift.gif"
+                        alt="python" width="40" height="40" />
                 </a></td>
         </tr>
         <!-- Softwares Section -->
