@@ -39,7 +39,7 @@
         </tr>
         <tr>
             <td><a href="https://www.python.org" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                    <img src="assets/python.gif"
                         alt="python" width="40" height="40" />
                 </a></td>
             <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
