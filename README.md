@@ -46,7 +46,7 @@
                     <img src="assets/c.gif" alt="c" width="40" height="40" />
                 </a></td>
             <td><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-                    <img src="assets/cshrap.gif"
+                    <img src="assets/csharp.gif"
                         alt="csharp" width="40" height="40" />
                 </a></td>
             <td><a href="https://www.java.com" target="_blank" rel="noreferrer">
