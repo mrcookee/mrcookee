@@ -59,7 +59,7 @@
         </tr>
         <!-- Frontend Technologies Section -->
         <tr>
-            <th colspan="3">Frontend Technologies</th>
+            <th colspan="5">Frontend Technologies</th>
         </tr>
         <tr>
             <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -85,7 +85,7 @@
         </tr>
         <!-- Backend & Backend as a Service (Baas) Section -->
         <tr>
-            <th colspan="4">Backend & Backend as a Service (Baas)</th>
+            <th colspan="5">Backend & Backend as a Service (Baas)</th>
         </tr>
         <tr>
             <td><a href="https://nodejs.org" target="_blank" rel="noreferrer">
