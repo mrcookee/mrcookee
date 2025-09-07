@@ -43,7 +43,7 @@
                         alt="python" width="40" height="40" />
                 </a></td>
             <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-                    <img src="assets/c.gif" alt="c" width="40" height="40" />
+                    <img src="assets/cpg.gif" alt="c" width="40" height="40" />
                 </a></td>
             <td><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
                     <img src="assets/csharp.gif"
