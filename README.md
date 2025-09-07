@@ -46,14 +46,14 @@
                     <img src="assets/c.png" alt="c" width="40" height="40" />
                 </a></td>
             <td><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+                    <img src="assets/cshap.gif"
                         alt="csharp" width="40" height="40" />
                 </a></td>
             <td><a href="https://www.java.com" target="_blank" rel="noreferrer">
                     <img src="assets/java.gif" alt="java" width="40" height="40" />
                 </a></td>
             <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                    <img src="assets/javascript.gif"
                         alt="javascript" width="40" height="40" />
                 </a></td>
         </tr>
